@@ -30,7 +30,7 @@ The project uses MediaPipe to detect hand landmarks and OpenCV to track finger m
 
 1. Clone the repository:
 
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/dileepkumarpallelapati/Real-Time-Air-Drawing-Application-Using-OpenCV-and-machine-learning/edit/main/README.md
 
 2. Open the project folder:
 
